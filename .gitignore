@@ -8,8 +8,11 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+<<<<<<< HEAD
 .idea/misc.xml
 .idea/vcs.xml
+=======
+>>>>>>> 208e94f (first)
 *.iws
 *.iml
 *.ipr
